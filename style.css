@@ -10,9 +10,17 @@ h1{
 
 nav{
   text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: grey;
 }
 
 figure{
   display: flex;
   justify-content: center;
+}
+#featured-property {
+  display: grid;
+  place-items: center;
+
 }
