@@ -11,3 +11,8 @@ h1{
 nav{
   text-align: center;
 }
+
+figure{
+  display: flex;
+  justify-content: center;
+}
