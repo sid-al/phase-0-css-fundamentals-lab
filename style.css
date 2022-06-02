@@ -19,8 +19,7 @@ figure{
   display: flex;
   justify-content: center;
 }
-#featured-property {
-  display: grid;
-  place-items: center;
 
+figure figcaption {
+  text-align: center;
 }
